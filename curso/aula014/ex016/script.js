@@ -33,5 +33,4 @@ function contar() {
         }
     }
     res.innerHTML += `\u{1F3C1}`;
-}
-//NÃO ESTÁ FUNCIONANDO A CONTAGEM DE TRÁS PRA FRENTE!!!!
+} 
